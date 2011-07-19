@@ -1,0 +1,9 @@
+{
+  "name": "connect-stats",
+  "version": "0.0.1",
+  "description": "Connect statistics made simple",
+  "keywords": ["statistics", "connect"],
+  "author": "Daniel Tralamazza <tralamazza@gmail.com>",
+  "main": "index",
+  "engines": { "node": "0.4.x" }
+}
